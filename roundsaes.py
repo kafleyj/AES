@@ -1,5 +1,7 @@
 
 import textwrap
+import os
+import sys
 import numpy as np
 class AesFromScratch:
     sBox = list()
